@@ -1,4 +1,4 @@
-# Fabio Castro Dias — Computer Engineer
+# Fabio Dias — Computer Engineer
 
 ### 🎯 Interests
 Computer Vision • Robotics • Embedded Systems • Deep Learning • Linux Systems • Computer Graphics
